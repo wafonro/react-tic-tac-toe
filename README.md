@@ -1,2 +1,3 @@
-# react-base
-Serve as a basic configuration for react projects
+# react tic-tac-toe
+
+Simple project to test react capabilitiesss
